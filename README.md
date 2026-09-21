@@ -23,3 +23,4 @@ You are developing a school management application that helps administrators man
 **LibrarySystemAdapter** - An adapter for integrating the library management system into the school management application. It adapts the `LibrarySystem` to the `SchoolManagementApp` interface, translating `integrateSystem()` to `manageBooks()`.
 
 ## UML Class Diagram
+![UML Class Diagram](https://raw.githubusercontent.com/HeindrichMacalinao/AdapterPattern_LS3/main/adapter-diagram.png)
