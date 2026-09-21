@@ -1,0 +1,1 @@
+# AdapterPattern_LS3
